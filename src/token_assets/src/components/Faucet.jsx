@@ -31,7 +31,7 @@ function Faucet(props) {
         Faucet
       </h2>
       <label>
-        Get your free DAngela tokens here! Claim 10,000 DANG tokens to{" "}
+        Get your free CODERP tokens here! Claim 10,000 CODERP tokens to{" "}
         {props.userPrincipal}.
       </label>
       <p className="trade-buttons">
